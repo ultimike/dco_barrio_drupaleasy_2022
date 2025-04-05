@@ -1,0 +1,5 @@
+[data-component-id="drupaleasy:vertical_menu"] {
+  .nav-item a:hover {
+    background-color: darkorange;
+  }
+}
