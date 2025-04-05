@@ -1,5 +1,5 @@
-#Drupal Career Online
+# Drupal Career Online
 
-##DrupalEasy custom theme from basic theme development lesson.
+## DrupalEasy custom theme from basic theme development lesson.
 
-Updated April 2025.
+This repository contains the theme with all of the in-class exercises complete. Updated April 2025.
